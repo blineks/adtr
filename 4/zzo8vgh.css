@@ -1,0 +1,66 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * bilo:
+ *   - http://typekit.com/eulas/00000000000000003b9b4144
+ *   - http://typekit.com/eulas/00000000000000003b9b4145
+ *   - http://typekit.com/eulas/00000000000000003b9b4147
+ * garamond-premier-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9ade23
+ *   - http://typekit.com/eulas/00000000000000003b9ade22
+ *   - http://typekit.com/eulas/00000000000000003b9ade26
+ *   - http://typekit.com/eulas/00000000000000003b9ade27
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-10-22 21:16:23 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=zzo8vgh&ht=tk&f=7853.7855.7864.7866.44251.44252.44254&a=47440709&app=typekit&e=css");
+
+@font-face {
+font-family:"garamond-premier-pro";
+src:url("https://use.typekit.net/af/e2b8db/00000000000000003b9ade23/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/e2b8db/00000000000000003b9ade23/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/e2b8db/00000000000000003b9ade23/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"garamond-premier-pro";
+src:url("https://use.typekit.net/af/ab5225/00000000000000003b9ade22/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/ab5225/00000000000000003b9ade22/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/ab5225/00000000000000003b9ade22/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"garamond-premier-pro";
+src:url("https://use.typekit.net/af/ef5e5b/00000000000000003b9ade26/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/ef5e5b/00000000000000003b9ade26/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/ef5e5b/00000000000000003b9ade26/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"garamond-premier-pro";
+src:url("https://use.typekit.net/af/c6ee3a/00000000000000003b9ade27/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/c6ee3a/00000000000000003b9ade27/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/c6ee3a/00000000000000003b9ade27/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"bilo";
+src:url("https://use.typekit.net/af/5f20f5/00000000000000003b9b4144/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/5f20f5/00000000000000003b9b4144/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/5f20f5/00000000000000003b9b4144/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"bilo";
+src:url("https://use.typekit.net/af/b3277b/00000000000000003b9b4145/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/b3277b/00000000000000003b9b4145/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/b3277b/00000000000000003b9b4145/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"bilo";
+src:url("https://use.typekit.net/af/fc691f/00000000000000003b9b4147/27/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/fc691f/00000000000000003b9b4147/27/d?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/fc691f/00000000000000003b9b4147/27/a?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+.tk-garamond-premier-pro { font-family: "garamond-premier-pro",serif; }
+.tk-bilo { font-family: "bilo",sans-serif; }
